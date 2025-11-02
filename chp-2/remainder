@@ -1,0 +1,5 @@
+a=int(input("frst no, "))
+b=int(input("second no, "))
+print("frst no, ")
+print("second no, ")
+print (" a%b")
